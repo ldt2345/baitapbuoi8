@@ -1,0 +1,9 @@
+E:\LuuDuLieuSinhVien\2001216272-LeDucTu\Bt-Buoi8\bai1\bin\Debug\bai1.exe.config
+E:\LuuDuLieuSinhVien\2001216272-LeDucTu\Bt-Buoi8\bai1\bin\Debug\bai1.exe
+E:\LuuDuLieuSinhVien\2001216272-LeDucTu\Bt-Buoi8\bai1\bin\Debug\bai1.pdb
+E:\LuuDuLieuSinhVien\2001216272-LeDucTu\Bt-Buoi8\bai1\obj\Debug\bai1.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\2001216272-LeDucTu\Bt-Buoi8\bai1\obj\Debug\bai1.Form1.resources
+E:\LuuDuLieuSinhVien\2001216272-LeDucTu\Bt-Buoi8\bai1\obj\Debug\bai1.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\2001216272-LeDucTu\Bt-Buoi8\bai1\obj\Debug\bai1.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\2001216272-LeDucTu\Bt-Buoi8\bai1\obj\Debug\bai1.exe
+E:\LuuDuLieuSinhVien\2001216272-LeDucTu\Bt-Buoi8\bai1\obj\Debug\bai1.pdb
